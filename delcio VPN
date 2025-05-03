@@ -1,0 +1,50 @@
+Aqui está um modelo de README.md personalizado para o seu app Delcio VPN:
+
+# Delcio VPN
+
+Delcio VPN é um aplicativo Android gratuito que permite conexão a servidores VPN de vários países utilizando arquivos `.ovpn`. Ideal para navegação segura, acesso a conteúdos bloqueados por região e proteção da privacidade online.
+
+## Funcionalidades
+
+- Conexão com servidores gratuitos (EUA, Inglaterra, Brasil, Canadá, Uganda).
+- Design simples e intuitivo.
+- Cores azul e branco para visual limpo.
+- Lista de servidores disponíveis.
+- Status da conexão VPN.
+- Página de ajuda com instruções básicas.
+
+## Tecnologias Utilizadas
+
+- Android Studio
+- Java/Kotlin
+- OpenVPN (via arquivos .ovpn)
+- Interface XML
+
+## Como Usar
+
+1. Baixe e instale o aplicativo Delcio VPN no seu Android.
+2. Escolha um servidor da lista.
+3. Conecte-se com um clique.
+4. Verifique o status da conexão na interface principal.
+
+## Servidores
+
+Os servidores utilizados são públicos e gratuitos, acessados via arquivos `.ovpn` e atualizados periodicamente.
+
+## Instalação
+
+Você pode clonar este repositório e abrir no Android Studio:
+
+```bash
+git clone https://github.com/SEU_USUARIO/DelcioVPN.git
+
+Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
+
+Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+Se quiser, posso gerar o arquivo `.md` para você baixar ou já adicionar ao seu projeto. Deseja isso?
+
